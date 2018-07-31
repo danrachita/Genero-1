@@ -7,7 +7,7 @@ This is provided by genero official repository. genero specification is based on
   
 ticker : GNRO  
 algorithm	: Quark  
-block reward : 14 bzm (staking 25%, masternode 75%)  
+block reward : 100 gnro (staking 25%, masternode 75%)  
 5000 gnro required coins for masternode  
 blocktime : 60 sec  
 total supply : 250,000,000  
