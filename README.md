@@ -18,7 +18,9 @@ genesis date	: 20th May, 2018
   
 exchanges : https://graviex.net/markets/gnrobtc  
 masternode online : https://masternodes.online/currencies/GNRO/  
-  
+    
+[`wallet`](https://github.com/robinadaptor/genero-wallet)  
+
 ***
 ## Donations 
   
