@@ -10,7 +10,7 @@ algorithm	: Quark
 block reward : 100 gnro (staking 25%, masternode 75%)  
 5000 gnro required coins for masternode  
 blocktime : 60 sec  
-total supply : 250,000,000  
+max supply limit : ~ 250,000,000  
 genesis date	: 20th May, 2018  
   
 ***
@@ -19,7 +19,7 @@ genesis date	: 20th May, 2018
 exchanges : https://graviex.net/markets/gnrobtc  
 masternode online : https://masternodes.online/currencies/GNRO/  
     
-[`wallet`](https://github.com/robinadaptor/genero-wallet)  
+[`wallet`](https://github.com/robinadaptor/genero-wallet)  [`discord`](https://discord.gg/azjN4Q)   
 
 ***
 ## Donations 
